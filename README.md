@@ -7,7 +7,9 @@ https://forum.netgate.com/topic/151351/email-notification-openvpn-client-connect
 **_REQUIREMENTS:_**
 
 Pfsense
+
 Telegraf package
+
 Open VPN
 
 **_IMPLEMENTATION_**
