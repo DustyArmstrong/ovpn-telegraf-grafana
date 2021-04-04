@@ -4,7 +4,7 @@ The script is based on community work from:
 
 https://forum.netgate.com/topic/151351/email-notification-openvpn-client-connect-common-name/78
 
-**_REQUIREMENTS:_**
+## REQUIREMENTS
 
 Pfsense
 
@@ -12,7 +12,7 @@ Telegraf package
 
 Open VPN
 
-**_IMPLEMENTATION_**
+## IMPLEMENTATION
 
 In your Open VPN server custom options, you will need to add the following line: 
 
