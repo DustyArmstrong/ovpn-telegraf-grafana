@@ -1,5 +1,7 @@
 # Open VPN Pfsense Telegraf Metrics
 
+<img src="https://i.imgur.com/QkrLt8J.png" width="150"> <img src="https://i.imgur.com/BwKT4Rl.png" width="50"> <img src="https://i.imgur.com/LBFSXIz.png" width="150">
+
 The script is based on community work from:
 
 https://forum.netgate.com/topic/151351/email-notification-openvpn-client-connect-common-name/78
