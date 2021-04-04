@@ -1,4 +1,4 @@
-# ovpn-telegraf-grafana
+# Open VPN Pfsense Telegraf Metrics
 
 The script is based on community work from:
 
